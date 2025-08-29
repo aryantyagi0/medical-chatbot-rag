@@ -7,8 +7,7 @@ A smart medical chatbot that uses **Retrieval-Augmented Generation (RAG)** to pr
 ## 🧩 Project Structure
 
 medical-chatbot-rag/
-├── app.py # Main application
-├── requirements.txt # Python dependencies
+
 ├── data/ # Folder containing medical documents
 │ └── medical_book.pdf
 ├── vectorstore/ # Vector database for RAG
